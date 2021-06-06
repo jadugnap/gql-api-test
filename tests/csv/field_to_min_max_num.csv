@@ -1,0 +1,7 @@
+num_field,min_val,max_val
+cancellationWindow,0,24
+minGroupSize,0,100
+priceRangeFrom,1,2000
+priceRangeTo,1,2000
+latitude,1,2
+longitude,103,104

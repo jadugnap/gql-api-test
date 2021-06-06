@@ -1,0 +1,9 @@
+any_field,min_len,max_len
+destinationId,4,30
+productId,5,5
+productName,1,100
+shortDescription,1,200
+cancellationType,15,18
+confirmationType,6,7
+voucherType,6,7
+address,20,100

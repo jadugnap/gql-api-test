@@ -1,0 +1,6 @@
+destinationId,australia,malaysia,singapore
+cancellationType,ALLOW_CANCELLATION,NO_CANCELLATION
+openDateTicket,True,False
+collectPhysicalTicket,True,False,None
+confirmationType,INSTANT,MANUAL
+voucherType,PARTNER,PELAGO

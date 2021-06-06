@@ -1,0 +1,2 @@
+graphql-core==3.1.5
+sgqlc==13.0
